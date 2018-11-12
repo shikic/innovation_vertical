@@ -1,0 +1,203 @@
+\ifx\undefined\bysame
+\newcommand{\bysame}{\leavevmode\hbox to\leftmargin{\hrulefill\,\,}}
+\fi
+\begin{thebibliography}{xx}
+
+\harvarditem[Acemoglu et al.]{Acemoglu, Akcigit and
+  Kerr}{2016a}{acemoglu2016networks}
+{\bf Acemoglu, Daron, Ufuk Akcigit, and William Kerr}, ``Networks and the
+  macroeconomy: An empirical exploration,'' {\it NBER Macroeconomics Annual},
+  2016, {\it 30} (1), 273--335.
+
+\harvarditem[Acemoglu et al.]{Acemoglu, Akcigit and
+  Kerr}{2016b}{acemoglu2016innovation}
+{\bf Acemoglu, Daron, Ufuk Akcigit, and William~R Kerr}, ``Innovation
+  network,'' {\it Proceedings of the National Academy of Sciences}, 2016, {\it
+  113} (41), 11483--11488.
+
+\harvarditem[Acemoglu et al.]{Acemoglu, Akcigit, Alp, Bloom and
+  Kerr}{2017}{acemoglu2013innovation}
+{\bf Acemoglu, Daron, Ufuk Akcigit, Harun Alp, Nicholas Bloom, and William~R
+  Kerr}, ``Innovation, reallocation and growth,'' Technical Report, National
+  Bureau of Economic Research 2017.
+
+\harvarditem[Akcigit and Kerr]{Akcigit and Kerr}{2018}{akcigit2018growth}
+{\bf Akcigit, Ufuk and William~R Kerr}, ``Growth through heterogeneous
+  innovations,'' {\it Journal of Political Economy}, 2018, {\it 126} (4),
+  1374--1443.
+
+\harvarditem[Akcigit et al.]{Akcigit, Hanley and
+  Stantcheva}{2016}{akcigit2016optimal}
+{\bf Akcigit, Ufuk, Douglas Hanley, and Stefanie Stantcheva}, ``Optimal
+  taxation and r\&d policies,'' Technical Report, National Bureau of Economic
+  Research 2016.
+
+\harvarditem[Akcigit et al.]{Akcigit, Baslandze and
+  Lotti}{2018a}{akcigit2018connecting}
+{\bf Akcigit, Ufuk, Salom{\'e} Baslandze, and Francesca Lotti}, ``Connecting to
+  power: political connections, innovation, and firm dynamics,'' Technical
+  Report, National Bureau of Economic Research 2018.
+
+\harvarditem[Akcigit et al.]{Akcigit, Caicedo, Miguelez, Stantcheva and
+  Sterzi}{2018b}{akcigit2018dancing}
+{\bf Akcigit, Ufuk, Santiago Caicedo, Ernest Miguelez, Stefanie Stantcheva, and
+  Valerio Sterzi}, ``Dancing with the stars: innovation through interactions,''
+  Technical Report, National Bureau of Economic Research 2018.
+
+\harvarditem[Akcigit et al.]{Akcigit, Ates and
+  Impullitti}{2018c}{akcigit2018innovation}
+{\bf Akcigit, Ufuk, Sina~T Ates, and Giammario Impullitti}, ``Innovation and
+  Trade Policy in a Globalized World,'' Technical Report, National Bureau of
+  Economic Research 2018.
+
+\harvarditem[Ant\`{a}s et al.]{Ant\`{a}s, Chor, Fally and
+  Hillberry}{2012}{antrs2012up}
+{\bf Ant\`{a}s, Pol, Davin Chor, Thibault Fally, and Russell Hillberry},
+  ``Measuring the Upstreamness of Production and Trade Flows,'' {\it American
+  Economic Review: Papers Proceedings}, 2012, {\it 102} (1), 412--416.
+
+\harvarditem[Atallah]{Atallah}{2002}{atallah2002vertical}
+{\bf Atallah, Gamal}, ``Vertical R\&D spillovers, cooperation, market
+  structure, and innovation,'' {\it Economics of Innovation and New
+  Technology}, 2002, {\it 11} (3), 179--209.
+
+\harvarditem[Bernard et al.]{Bernard, Dhyne, Magerman, Manova and
+  Moxnes}{2018}{bernard2017origins}
+{\bf Bernard, Andrew~B, Emmanuel Dhyne, Glenn Magerman, Kalina Manova, and
+  Andreas Moxnes}, ``The Origins of Firm Heterogeneity: A Production Nnetwork
+  Approach,'' {\it Working Paper}, 2018.
+
+\harvarditem[Bloom and Van~Reenen]{Bloom and
+  Van~Reenen}{2002}{bloom2002patents}
+{\bf Bloom, Nicholas and John Van~Reenen}, ``Patents, real options and firm
+  performance,'' {\it The Economic Journal}, 2002, {\it 112} (478), C97--C116.
+
+\harvarditem[Braun]{Braun}{2005}{braun2005financial}
+{\bf Braun, Matias}, ``Financial Contractability and Asset Hardness,'' 2005.
+
+\harvarditem[Chen et al.]{Chen, Poncet, Xiong et~al.}{2017}{chen2016local}
+{\bf Chen, Zhao, Sandra Poncet, Ruixiang Xiong et~al.}, ``Local Financial
+  Development and Constraints on Private Firms' Exports: Evidence from City
+  Commercial Banks in China,'' Technical Report 2017.
+
+\harvarditem[Coe and Helpman]{Coe and Helpman}{1995}{coe1995international}
+{\bf Coe, David~T and Elhanan Helpman}, ``International R\&D spillovers,'' {\it
+  European economic review}, 1995, {\it 39} (5), 859--887.
+
+\harvarditem[Cui and Li]{Cui and Li}{2016}{cuiinnovation}
+{\bf Cui, Jingbo and Xiaogang Li}, ``Innovation and Firm Productivity: Evidence
+  from the US Patent Data,'' Technical Report, Agricultural and Applied
+  Economics Association 2016.
+
+\harvarditem[Dollar and Wei]{Dollar and Wei}{2007}{dollar2007wasted}
+{\bf Dollar, David and Shang-Jin Wei}, ``Das (wasted) kapital: Firm Ownership
+  and Investment Efficiency in China,'' 2007.
+
+\harvarditem[Fernandes and Heiwai]{Fernandes and Heiwai}{2012}{Tang2012process}
+{\bf Fernandes, Ana~P. and Tang Heiwai}, ``Determinants of Vertical Integration
+  in Export Processing: Theory and Evidence from China,'' {\it Journal of
+  Development Economics}, 2012, {\it 99} (1), 396--414.
+
+\harvarditem[Fisch et al.]{Fisch, Sandner and Regner}{2017}{fisch2017value}
+{\bf Fisch, Christian, Philipp Sandner, and Lukas Regner}, ``The value of
+  Chinese patents: An empirical investigation of citation lags,'' {\it China
+  Economic Review}, 2017, {\it 45}, 22--34.
+
+\harvarditem[Foley and Manova]{Foley and Manova}{2015}{foley2015international}
+{\bf Foley, CF and K~Manova}, ``International Trade, Multinational Activity,
+  and Corporate Finance,'' {\it Annual Review of Economics}, 2015, {\it 7} (1),
+  119--146.
+
+\harvarditem[Foster et al.]{Foster, Grim, Haltiwanger and
+  Wolf}{2018}{foster2018innovation}
+{\bf Foster, Lucia, Cheryl Grim, John~C Haltiwanger, and Zoltan Wolf},
+  ``Innovation, Productivity Dispersion, and Productivity Growth,'' Technical
+  Report, National Bureau of Economic Research 2018.
+
+\harvarditem[Griliches]{Griliches}{1998}{griliches1998productivity}
+{\bf Griliches, Zvi}, ``Productivity, R\&D, and the data constraint,'' in
+  ``R\&D and productivity: The econometric evidence,'' University of Chicago
+  Press, 1998, pp.~347--374.
+
+\harvarditem[Guellec and De~La~Potterie]{Guellec and
+  De~La~Potterie}{2002}{guellec2002r}
+{\bf Guellec, Dominique and Bruno van~Pottelsberghe De~La~Potterie}, ``R\&D and
+  productivity growth,'' {\it OECD Economic studies}, 2002, {\it 2001} (2),
+  103--126.
+
+\harvarditem[Higon]{Higon}{2007}{higon2007impact}
+{\bf Higon, Dolores~Anon}, ``The impact of R\&D spillovers on UK manufacturing
+  TFP: A dynamic panel approach,'' {\it Research policy}, 2007, {\it 36} (7),
+  964--979.
+
+\harvarditem[Hsieh and Klenow]{Hsieh and Klenow}{2009}{hsieh2009misallocation}
+{\bf Hsieh, Chang-Tai and Peter~J Klenow}, ``Misallocation and Manufacturing
+  TFP in China and India,'' {\it The Quarterly journal of economics}, 2009,
+  {\it 124} (4), 1403--1448.
+
+\harvarditem[Hu et al.]{Hu, Zhang and Zhao}{2017}{hu2017china}
+{\bf Hu, Albert~GZ, Peng Zhang, and Lijing Zhao}, ``China as number one?
+  Evidence from China's most recent patenting surge,'' {\it Journal of
+  Development Economics}, 2017, {\it 124}, 107--119.
+
+\harvarditem[Keller and Yeaple]{Keller and
+  Yeaple}{2009}{keller2009multinational}
+{\bf Keller, Wolfgang and Stephen~R Yeaple}, ``Multinational Enterprises,
+  International Trade, and Productivity Growth: Firm-level Evidence from the
+  United States,'' {\it The Review of Economics and Statistics}, 2009, {\it 91}
+  (4), 821--831.
+
+\harvarditem[Lind and Ramondo]{Lind and Ramondo}{2018}{lind2018innovation}
+{\bf Lind, Nelson and Natalia Ramondo}, ``Innovation, Knowledge Diffusion, and
+  Globalization,'' Technical Report, National Bureau of Economic Research 2018.
+
+\harvarditem[Liu and Qiu]{Liu and Qiu}{2016a}{Liu2016patent}
+{\bf Liu, Qing and Dongxiao Qiu}, ``Intermediate Input Imports and Innovations:
+  Evidence from Chinese Firms' Patent Filings,'' {\it Journal of International
+  Economics}, 2016, {\it 103} (1), 166--183.
+
+\harvarditem[Liu and Qiu]{Liu and Qiu}{2016b}{liu2016intermediate}
+{\bf Liu, Qing and Larry~D Qiu}, ``Intermediate input imports and innovations:
+  Evidence from Chinese firms' patent filings,'' {\it Journal of International
+  Economics}, 2016, {\it 103}, 166--183.
+
+\harvarditem[Lu et al.]{Lu, Tao and Zhu}{2017}{lu2017identifying}
+{\bf Lu, Yi, Zhigang Tao, and Lianming Zhu}, ``Identifying FDI spillovers,''
+  {\it Journal of International Economics}, 2017, {\it 107}, 75--90.
+
+\harvarditem[Manova]{Manova}{2013}{Monova2013fin}
+{\bf Manova, Kalina}, ``Credit Constraints,Heterogeneous Firms, and
+  International Trade,'' {\it Review of Economic Studies}, 2013, {\it 80} (1),
+  711--744.
+
+\harvarditem[Manova and Yu]{Manova and Yu}{2016}{manova2016firms}
+{\bf Manova, Kalina and Zhihong Yu}, ``How Firms Export: Processing vs.
+  Ordinary Trade with Financial Frictions,'' {\it Journal of International
+  Economics}, 2016, {\it 100}, 120--137.
+
+\harvarditem[Manova et al.]{Manova, Wei and Zhang}{2013}{Monova2015fin}
+{\bf Manova, Kalina, Shang-Jin Wei, and Zhiwei Zhang}, ``Firm Exports and
+  Mutinational Activity under Credit Constrainss,'' {\it Review of Economics
+  and Statistics}, 2013, {\it 97} (1), 574--588.
+
+\harvarditem[Shu and Steinwender]{Shu and Steinwender}{2018}{shu2018impact}
+{\bf Shu, Pian and Claudia Steinwender}, ``The Impact of Trade Liberalization
+  on Firm Productivity and Innovation,'' Technical Report, National Bureau of
+  Economic Research 2018.
+
+\harvarditem[Smarzynska~Javorcik]{Smarzynska~Javorcik}{2004}{smarzynska2004does}
+{\bf Smarzynska~Javorcik, Beata}, ``Does foreign direct investment increase the
+  productivity of domestic firms? In search of spillovers through backward
+  linkages,'' {\it American economic review}, 2004, {\it 94} (3), 605--627.
+
+\harvarditem[Wei et al.]{Wei, Xie and Zhang}{2017}{wei2017made}
+{\bf Wei, Shang-Jin, Zhuan Xie, and Xiaobo Zhang}, ``From" Made in China" to"
+  Innovated in China": Necessity, prospect, and challenges,'' {\it Journal of
+  Economic Perspectives}, 2017, {\it 31} (1), 49--70.
+
+\harvarditem[Wu]{Wu}{2018}{wu2018capital}
+{\bf Wu, Guiying~Laura}, ``Capital Misallocation in China: Financial Frictions
+  or Policy Distortions?,'' {\it Journal of Development Economics}, 2018, {\it
+  130}, 203--223.
+
+\end{thebibliography}
